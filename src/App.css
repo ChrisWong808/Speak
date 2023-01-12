@@ -14,14 +14,28 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  /* background-color: #282c34; */
+  /* background-image: './mmap.gif'; */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  /* color: white; */
+  color: black;
+}
+.CL {
+  border-bottom: solid 1px black;
+  font-weight: bold;
+}
+
+.miss {
+  border-bottom: solid 1px black;
+}
+
+.suffer {
+  font-weight: bold;
 }
 
 .App-link {
