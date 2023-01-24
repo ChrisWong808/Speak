@@ -177,7 +177,7 @@ const recognizeCommands = async () =>{
           <div>one : {one.c}</div>
           <div></div>
         </div> */}
-        <div className='miss' >Our mission is to help those that have lost their voice. Whether you are technologically challenged, visually impaired, or simply looking to simplify things, we are here to increase your quality of life through voice recognition and control. </div>
+        <div className='miss' >Our mission is to help those that have lost their voice. Whether you are technologically challenged, visually impaired, or just looking to simplify things, we are here to increase your quality of life through voice recognition and control. </div>
       <div className='suffer'>Don't Suffer in Silence</div>
       < img src={charlieDance} alt='' width='90' height='150'
       />
