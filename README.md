@@ -1,7 +1,7 @@
 # Speak
 
 ## Description
-Riff is a messaging application built for mobile, inspired by Slack. Users chat with others in shared servers across a number of topic specific channels. They can also directly message other users.
+Speak is a prototype for a voice controlled application. Enabling the user to change various GIFs, the direction of movement, and control a musical playback system, all through voice commands.
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
